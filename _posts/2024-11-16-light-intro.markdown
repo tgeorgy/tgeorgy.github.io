@@ -5,7 +5,7 @@ date:   2024-11-16 10:26:30
 categories: greenhouse grow light horticulture energy efficiency
 ---
 
-*Grow lights consume more energy than they could. What’s crazy is that it is happening for a wrong reason - both light plans and fixtures are simply under-engineered. Here's what is missing and what could be done better.*
+Grow lights consume more energy than they could. What’s crazy is that it is happening for a wrong reason - both light plans and fixtures are simply under-engineered. Here's what is missing and what could be done better.
 
 When you optimize light for efficiency your ultimate goal must be to convert as much electrical energy as possible into photosynthesis. There are two sides to it.
 1. **Converting electricity into usable light** - This is the first thing people consider when they talk about energy efficiency and it is only a part of it. LED manufacturers and many of the grow light companies do a great job here.
