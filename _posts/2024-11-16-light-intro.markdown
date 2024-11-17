@@ -19,7 +19,7 @@ All of the light you see is **wasted** and it should have been absorbed by the p
 
 The second best option is to at least make sure that the light is focused on the plants.
 
-# Lighting planing limitations
+# Lighting planning limitations
 Light planning is deceptively simple if you don't think too much about it. There are many simulation tools you can use that do the same thing - help you to figure out how many fixtures you need and where to place them. Your inputs are growing area layout and your fixture light spread - how much energy is emitted by a single fixture in what direction.
 
 ![Light Planning](/assets/light-intro/lightplanning.webp)
@@ -37,7 +37,7 @@ The only way to make grow light truly efficient is to control the light spread w
 
 ![Car head light](/assets/light-intro/carheadlight.png)
 
-They are designed to focus light on the lane ahead and avoid blinding incoming traffic. The pattern is very specific and predefined. This is achieved by optimizing lenses and reflectors.
+They are designed to focus light on the lane ahead and avoid blinding oncoming traffic. The pattern is very specific and predefined. This is achieved by optimizing lenses and reflectors.
 
 We could do the same for greenhouses, except for lenses and now would also need to figure out configurable reflector design and a way to find right parameters. Both of them are easily within reach - the first one is solved with mechanical design and the second one is math and optimization.
 
