@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimizing light for greenhouse energy efficiency"
+title:  "Stop Wasting Light. Optimizing greenhouse energy efficiency"
 date:   2024-11-16 10:26:30
 categories: greenhouse grow light horticulture energy efficiency
 ---
